@@ -1,5 +1,5 @@
 nltk
-pickle
+
 numpy 
 pandas
 scikit-learn
